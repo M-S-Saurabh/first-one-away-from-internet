@@ -1,0 +1,24 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+
+#octocat {
+  display: block;
+  width:384px;
+  margin: 50px auto;
+}
+a {
+	text-align: centre;
+	width: 500px;
+	margin: 40px;
+	font-size: 50px;
+	font-style: normal;
+	font-family: "Verdana","Times New Roman",Sans-Serif;
+}
+p {
+  display: block;
+  width: 400px;
+  margin: 50px auto;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
